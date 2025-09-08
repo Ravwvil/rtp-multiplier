@@ -16,7 +16,7 @@ $$
 Приравниваем к требуемому $\mathrm{rtp}$ и находим $m_0$:
 
 $$
-\frac{m_0^2 - 1}{2L} = \mathrm{rtp} \;\;\;\Rightarrow\;\;\; m_0 = \sqrt{2 \cdot \mathrm{rtp} \cdot L + 1}
+\frac{m_0^2 - 1}{2L} = \mathrm{rtp} \Rightarrow m_0 = \sqrt{2 \cdot \mathrm{rtp} \cdot L + 1}
 $$
 
 Логическое наблюдение: чем больше чисел в последовательности, тем алгоритм стабильнее и точнее (по закону больших чисел).
